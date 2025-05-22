@@ -1,6 +1,6 @@
 <div align="center">
   
-# K-Vehicles: An Aerial Dataset for Vehicle Detection
+# K-Vehicles: A Dataset for Vehicle Detection in Aerial Imagery
 <!--[Leo Thomas Ramos](https://www.linkedin.com/in/leo-thomas-ramos/)\, [Henry Valesaca](https://ec.linkedin.com/in/henry-velesaca-lara/)\, [Ángel D. Sappa](https://es.linkedin.com/in/angel-sappa-61532b17) -->
 </div>
 
