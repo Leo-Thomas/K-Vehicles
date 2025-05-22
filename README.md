@@ -37,7 +37,7 @@ K-Vehicles dataset consists of 15,168 cropped images, each with a fixed resoluti
 
 ## Dataset download
 
-The dataset is available for download via IEEE DataPort [here](#).
+The dataset is available for download via IEEE DataPort [here](#). _(to be released after publication)_
 
 ## Benchmarking results
 
