@@ -46,9 +46,9 @@ To assess the utility of K-Vehicles, we conduct a benchmarking study using four 
 | Model | Precision | Recall | mAP@50 | mAP@50:95 |  Speed   | Checkpoint |
 |------|------|------|------|------|------|------|
 | YOLOv9m   | 0.956   | 0.770   | 0.865   | 0.698   | 2.9   | Download |
-| YOLOv10m   | B2   | C2   | D2   | E2   | Speed   | Download   |
-| YOLOv11m   | B3   | C3   | D3   | E3   | Speed   | Download   |
-| YOLOv12m  | B4   | C4   | D4   | E4   | Speed   | Download   |
+| YOLOv10m   | 0.910   | 0.788   | 0.844   | 0.687   | 2.0   | Download   |
+| YOLOv11m   | 0.960   | 0.769   | 0.865   | 0.700   | 2.4   | Download   |
+| YOLOv12m  | 0.931   | 0.782   | 0.883   | 0.736   | 3.5   | Download   |
 
 ## Contributing
 
