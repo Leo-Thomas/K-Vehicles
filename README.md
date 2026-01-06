@@ -1,6 +1,6 @@
 <div align="center">
   
-# K-Vehicles: A Dataset for Vehicle Detection in Aerial Imagery
+# K-Vehicles: A Remote Sensing Dataset for Vehicle Detection in Aerial Imagery
 <!--[Leo Thomas Ramos](https://www.linkedin.com/in/leo-thomas-ramos/)\, [Henry Valesaca](https://ec.linkedin.com/in/henry-velesaca-lara/)\, [Ángel D. Sappa](https://es.linkedin.com/in/angel-sappa-61532b17) -->
 </div>
 
@@ -39,7 +39,7 @@ K-Vehicles dataset consists of 15,168 cropped images, each with a fixed resoluti
 
 ## Dataset download
 
-The dataset is available for download via Hugging Face [here](https://huggingface.co/datasets/leoxthomas/K-Vehicles). _(to be released after publication)_
+The dataset is available for download via Hugging Face [here](https://huggingface.co/datasets/leoxthomas/K-Vehicles).
 
 ## Benchmarking results
 
