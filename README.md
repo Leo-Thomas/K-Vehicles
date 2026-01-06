@@ -17,7 +17,9 @@
 
 <!-- K-Vehicles is under review at []() ! 📣 -->
 
-K-Vehicles has been accepted at the Second IEEE/CVF Workshop on Computer Vision for Geospatial Image Analysis (GeoCV) @ WACV 2026 📣📣📣
+- K-Vehicles is now available for download at Hugging Face
+- K-Vehicles has been accepted at the Second IEEE/CVF Workshop on Computer Vision for Geospatial Image Analysis (GeoCV) @ WACV 2026 📣📣📣
+- K-Vehicles is under review (download option will be available after publication)
 
 ## About the project
 
