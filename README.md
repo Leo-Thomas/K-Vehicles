@@ -15,11 +15,13 @@
 
 ## Announcements
 
-K-Vehicles is under review <!--at []() ! 📣 -->
+<!-- K-Vehicles is under review at []() ! 📣 -->
+
+K-Vehicles has been accepted in the Second IEEE/CVF Workshop on Computer Vision for Geospatial Image Analysis (GeoCV) @ WACV 2026 📣📣📣
 
 ## About the project
 
-We present K-Vehicles, a new dataset for vehicle detection in aerial imagery. It is built from high-resolution RGB images captured by a Cessna aircraft over diverse real-world environments, including highways, agricultural fields, and industrial zones. The dataset comprises 15,168 cropped images of 1,024x1,024 pixels, annotated manually across seven vehicle categories: truck, forklift, machinery, pickup, tractor, vehicle, and bus. It incorporates relevant challenges such as occlusion, scene clutter, intra-scene variation, and variable lighting conditions, making it suitable for training and evaluating object detection models in realistic scenarios.
+We present K-Vehicles, a new dataset for vehicle detection in aerial imagery. It is built from high-resolution RGB images captured by a Cessna aircraft over diverse real-world environments, including highways, agricultural fields, and industrial zones. The dataset comprises 15,168 cropped images of 1,024x1,024 pixels, annotated manually across seven vehicle categories: truck, forklift, machinery, pickup, tractor, car, and bus. It incorporates relevant challenges such as occlusion, scene clutter, intra-scene variation, and variable lighting conditions, making it suitable for training and evaluating object detection models in realistic scenarios.
 
 ### Paper
 
@@ -37,18 +39,18 @@ K-Vehicles dataset consists of 15,168 cropped images, each with a fixed resoluti
 
 ## Dataset download
 
-The dataset is available for download via IEEE DataPort [here](#). _(to be released after publication)_
+The dataset is available for download via Hugging Face [here](https://huggingface.co/datasets/leoxthomas/K-Vehicles). _(to be released after publication)_
 
 ## Benchmarking results
 
 To assess the utility of K-Vehicles, we conduct a benchmarking study using four recent YOLO architectures, from YOLOv9 to YOLOv12.
 
-| Model | Precision | Recall | mAP@50 | mAP@50:95 |  Speed   | Checkpoint |
-|------|------|------|------|------|------|------|
-| YOLOv9m   | 0.956   | 0.770   | 0.865   | 0.698   | 2.9   | Download |
-| YOLOv10m   | 0.910   | 0.788   | 0.844   | 0.687   | 2.0   | Download   |
-| YOLOv11m   | 0.960   | 0.769   | 0.865   | 0.700   | 2.4   | Download   |
-| YOLOv12m  | 0.931   | 0.782   | 0.883   | 0.736   | 3.5   | Download   |
+| Model | Precision | Recall | mAP@50 | mAP@50:95 |  Speed   | 
+|------|------|------|------|------|------|
+| YOLOv9m   | 0.956   | 0.770   | 0.865   | 0.698   | 2.9   | 
+| YOLOv10m   | 0.910   | 0.788   | 0.844   | 0.687   | 2.0   | 
+| YOLOv11m   | 0.960   | 0.769   | 0.865   | 0.700   | 2.4   | 
+| YOLOv12m  | 0.931   | 0.782   | 0.883   | 0.736   | 3.5   | 
 
 ## Contributing
 
