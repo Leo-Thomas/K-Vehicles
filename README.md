@@ -76,7 +76,14 @@ Distributed under GNU General Public License v3.0. See `LICENSE` for more inform
 If you find this dataset useful, please star ⭐️⭐️⭐️ our repo and cite our paper.
 
 ```
-soon
+@InProceedings{Ramos_2026_WACV,
+    author    = {Ramos, Leo Thomas and Casas, Edmundo and Romero, Cristian and Rivas-Echeverr{\'\i}a, Francklin},
+    title     = {K-Vehicles: A Remote Sensing Dataset for Vehicle Detection in Aerial Imagery},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {March},
+    year      = {2026},
+    pages     = {800-809}
+}
 ```
 
 ## Poster 
