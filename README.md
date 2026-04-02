@@ -27,7 +27,7 @@ We present K-Vehicles, a new dataset for vehicle detection in aerial imagery. It
 
 ### Paper
 
-K-Vehicles paper is available at WACVW proceedings [here](https://openaccess.thecvf.com/content/WACV2026W/GeoCV/html/Ramos_K-Vehicles_A_Remote_Sensing_Dataset_for_Vehicle_Detection_in_Aerial_WACVW_2026_paper.html)
+K-Vehicles paper is available at WACV proceedings [here](https://openaccess.thecvf.com/content/WACV2026W/GeoCV/html/Ramos_K-Vehicles_A_Remote_Sensing_Dataset_for_Vehicle_Detection_in_Aerial_WACVW_2026_paper.html)
 
 ## Data set description
 
